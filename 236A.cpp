@@ -8,11 +8,11 @@ int main(){
         st.insert(it);
     }
     if(st.size() % 2 == 0){
-        cout << "CHAT WITH HER\n";
+        cout << "CHAT WITH HER!\n";
         return 0;
     }
     else{
-        cout << "IGNORE HIM\n";
+        cout << "IGNORE HIM!\n";
         return 0;
     }
 }
